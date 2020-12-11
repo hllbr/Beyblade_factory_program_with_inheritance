@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Test {
     /*
     inhertance ile bir beyblade oluşturma programı yazıyoruz.(mustafa murat coskun umdey java eğitimi içerinden örnektir.)
+    //Source = Mustafa Murat COŞKUN / UDEMY referans alınarak geliştirilmiştir..
     
     */
     public static void main(String[] args) {
